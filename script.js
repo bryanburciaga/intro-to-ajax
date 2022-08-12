@@ -36,6 +36,7 @@ function handleSubmit(event) {
         );
     }
     
+    // test 
     
 function render(movieData) { // render means the process of visualizing data
     $main.html(`
